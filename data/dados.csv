@@ -1,0 +1,14 @@
+codigo,bairro,categoria,descricao,local,dia_abertura,situacao,dia_analise,dia_conclusao
+001,vila_horizonte,iluminacao,Poste apagado no acesso à praça,Praça Central,1,aberta,,
+002,jardim_do_ipe,iluminacao,Iluminação intermitente no trecho de caminhada,Alameda do bairro,2,aberta,,
+003,vila_horizonte,iluminacao,Luminárias apagadas junto ao ponto de ônibus,Ponto de ônibus do bairro,3,em_analise,4,
+004,jardim_do_ipe,iluminacao,Claridade insuficiente junto ao portão da quadra,Quadra comunitária,4,concluida,5,8
+005,vila_horizonte,acessibilidade,Desnível no acesso à faixa de pedestres,Travessia da praça,5,aberta,,
+006,jardim_do_ipe,acessibilidade,Piso tátil interrompido perto da entrada,Centro comunitário,6,em_analise,7,
+007,vila_horizonte,acessibilidade,Rampa de acesso com superfície irregular,Biblioteca comunitária,7,concluida,8,13
+008,jardim_do_ipe,limpeza,Lixeiras cheias após a feira,Área da feira,8,aberta,,
+009,vila_horizonte,limpeza,Resíduos acumulados nos canteiros,Canteiros da praça,9,em_analise,10,
+010,jardim_do_ipe,limpeza,Folhas e embalagens bloqueavam a passagem,Passarela do parque,10,concluida,11,18
+011,vila_horizonte,conservacao,Banco com assento solto,Área de convivência,11,aberta,,
+012,jardim_do_ipe,,Revestimento solto no corredor,Centro comunitário,12,aberta,,
+013,jardim_do_ipe,conservacao,Barra do portão com peça solta,Quadra comunitária,12,em_analise,14,
